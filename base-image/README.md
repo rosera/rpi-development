@@ -37,6 +37,8 @@ Once the image has been written to the memory card there will be two volumes ava
 * boot
 * rootfs 
 
+__NOTE:__ On ChromeOs share the folders with Linux to enable write access then look in the folder `/mnt/chromeos/removable`
+
 1. Select the BOOT from the file manager:
 
 Click on the boot folder to mount the image. Then right click in the folder window and select the “open in terminal” option.
