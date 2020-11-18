@@ -28,12 +28,16 @@ __Note:__ the location where the file is being downloaded
 6. Right click on the downloaded image to show the menu
 7. Open with Disk Image Writer option.
 
-8. In the image writer, select the memory card inserted to be used to write the image. Once the image has been written to the memory card there will be two volumes available:
+8. In the image writer, select the memory card inserted to be used to write the image. 
+
+## Configure the Image
+
+Once the image has been written to the memory card there will be two volumes available:
 
 * boot
 * rootfs 
 
-9. Select the BOOT from the file manager:
+1. Select the BOOT from the file manager:
 
 Click on the boot folder to mount the image. Then right click in the folder window and select the “open in terminal” option.
 
@@ -49,7 +53,7 @@ Close the open terminal window
 
 __Note__: You can also change the hostname ...
 
-10. Select the ROOTFS from the file manager:
+2. Select the ROOTFS from the file manager:
 
 Click on the rootfs folder to mount the image. Then right click on the folder window and select the “open in terminal” option
 
