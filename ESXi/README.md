@@ -55,4 +55,4 @@ Save and quit
 
 ESXi [Link](https://flings.vmware.com/esxi-arm-edition)
 
-Create a VMWAre account
+Create a VMWare account
