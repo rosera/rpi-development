@@ -1,5 +1,7 @@
 # RPI
 
-Kubernetes installation on RPI
+Repository for Raspberry Pi
 
-ESXi Installation on RPI
+- [x] Kubernetes installation on RPI
+- [x] ESXi Installation on RPI
+- [x] PiHole
